@@ -1,0 +1,10 @@
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\bin\Debug\netcoreapp2.0\DoJoSaque.deps.json
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\bin\Debug\netcoreapp2.0\DoJoSaque.runtimeconfig.json
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\bin\Debug\netcoreapp2.0\DoJoSaque.runtimeconfig.dev.json
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\bin\Debug\netcoreapp2.0\DoJoSaque.dll
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\bin\Debug\netcoreapp2.0\DoJoSaque.pdb
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\obj\Debug\netcoreapp2.0\DoJoSaque.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\obj\Debug\netcoreapp2.0\DoJoSaque.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\obj\Debug\netcoreapp2.0\DoJoSaque.AssemblyInfo.cs
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\obj\Debug\netcoreapp2.0\DoJoSaque.dll
+D:\Desenvolvimento\Sistemas\JET\DoJoSaque\DoJoSaque\obj\Debug\netcoreapp2.0\DoJoSaque.pdb
